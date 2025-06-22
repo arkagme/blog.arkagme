@@ -2,7 +2,7 @@
 title: Art using Fourier Transforms
 published: 2025-06-22
 description: 'The beauty behind maths and how it can be used to make almost any art'
-image: ''
+image: './fouriert.png'
 tags: [Maths , CreativeCoding , p5.js , Javascript]
 category: 'Art using Code'
 draft: false 
